@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+print 'D' * 90
+
